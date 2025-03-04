@@ -3,7 +3,6 @@
 [![GitHub release](https://img.shields.io/github/v/release/Linxiaoyaa/sha1-service)](https://github.com/Linxiaoyaa/sha1-service/releases)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Linxiaoyaa/sha1-service)](https://goreportcard.com/report/github.com/Linxiaoyaa/sha1-service)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![CI](https://github.com/Linxiaoyaa/sha1-service/actions/workflows/ci.yml/badge.svg)](https://github.com/Linxiaoyaa/sha1-service/actions/workflows/ci.yml)
 
 基于 Go 语言实现的高性能 SHA1 哈希计算 HTTP 服务，提供 RESTful API 接口，支持字符串和文件哈希计算。
 
